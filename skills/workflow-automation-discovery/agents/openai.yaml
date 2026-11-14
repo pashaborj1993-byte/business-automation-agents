@@ -1,0 +1,6 @@
+interface:
+  display_name: "Workflow Automation Discovery"
+  short_description: "Find the business process worth automating first."
+  default_prompt: "Use $workflow-automation-discovery to scope the highest-value workflow we should improve."
+policy:
+  allow_implicit_invocation: true

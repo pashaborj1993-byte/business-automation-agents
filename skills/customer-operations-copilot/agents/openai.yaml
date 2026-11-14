@@ -1,0 +1,6 @@
+interface:
+  display_name: "Customer Operations Copilot"
+  short_description: "Triage and resolve customer work with guardrails."
+  default_prompt: "Use $customer-operations-copilot to design a safe customer support workflow."
+policy:
+  allow_implicit_invocation: true

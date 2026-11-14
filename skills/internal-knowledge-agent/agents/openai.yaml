@@ -1,0 +1,6 @@
+interface:
+  display_name: "Internal Knowledge Agent"
+  short_description: "Answer company questions with sources and permissions."
+  default_prompt: "Use $internal-knowledge-agent to plan a permission-aware company knowledge assistant."
+policy:
+  allow_implicit_invocation: true

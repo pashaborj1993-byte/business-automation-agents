@@ -1,0 +1,6 @@
+interface:
+  display_name: "Lead-to-Quote Agent"
+  short_description: "Turn business enquiries into owned opportunities."
+  default_prompt: "Use $lead-to-quote-automation to design our enquiry-to-proposal process."
+policy:
+  allow_implicit_invocation: true
